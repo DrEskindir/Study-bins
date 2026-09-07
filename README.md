@@ -8,7 +8,7 @@ Spend less time deciding what to review next and more time actually practicing. 
 
 **Via AnkiWeb (recommended):**
 1. Tools → Add-ons → Get Add-ons...
-2. Enter the add-on code: `  `
+2. Enter the add-on code: `1120712196`
 3. Restart Anki.
 
 
