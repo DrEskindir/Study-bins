@@ -75,4 +75,4 @@ The `.ankiaddon` file should contain only `__init__.py`, `manifest.json`, and `c
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE).
+This project is licensed under the GNU GPL-3.0 License. See [LICENSE](LICENSE).
